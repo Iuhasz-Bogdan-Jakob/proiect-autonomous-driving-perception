@@ -1,4 +1,4 @@
-# proiect-autonomous-driving-perception
+# Proiect Autonomous Driving Perception
 
 Autonomous Driving Perception - Semantic Segmentation
 
